@@ -1,0 +1,9 @@
+MEDICION - Contacto de Autopoiesis (CAP)
+
+Este paquete es de medicion, declarado: los mismos mensajes del Faro marcados con
+la cadena CAP-ECO-6e949cc0e113a69e0fa1a737. Sirve para saber si estos textos fueron leidos o absorbidos
+por algun sistema (si un modelo la reproduce, el texto paso por su entrenamiento).
+No es el Faro: el Faro se publica aparte y sin marca.
+
+Measurement package, declared: the Faro messages tagged with CAP-ECO-6e949cc0e113a69e0fa1a737 to detect
+ingestion. Not the Faro itself, which is published separately and untagged.
